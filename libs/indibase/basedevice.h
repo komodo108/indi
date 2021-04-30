@@ -19,7 +19,7 @@
 #pragma once
 
 #include "indibase.h"
-#include "indiproperty.h"
+#include "property/indiproperty.h"
 #include "indiutility.h"
 
 #include <string>
