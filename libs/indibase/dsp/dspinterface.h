@@ -21,7 +21,7 @@
 #pragma once
 
 #include "indidevapi.h"
-#include "dsp.h"
+#include "dsp/dsp.h"
 
 #include <fitsio.h>
 #include <functional>

@@ -21,7 +21,7 @@
 #pragma once
 
 #include "dspinterface.h"
-#include "dsp.h"
+#include "dsp/dsp.h"
 #include <fitsio.h>
 #define N_WAVELETS 7
 #include <string>
